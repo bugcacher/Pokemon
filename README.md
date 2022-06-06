@@ -11,3 +11,7 @@
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
 - [Retrofit](https://square.github.io/retrofit/#:~:text=Retrofit%20Configuration,are%20turned%20into%20callable%20objects.)
 - [Room](https://developer.android.com/training/data-storage/room)
+- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+
+
